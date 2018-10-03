@@ -1,0 +1,2 @@
+# mySLAM
+Exercise slam algorithm
